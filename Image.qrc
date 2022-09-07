@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="KPMG_Logo.ico">Source/KPMG_Logo.ico</file>
+    <file alias="close.png">Source/close.png</file>
+    <file alias="search.png">Source/search.png</file>
+    <file alias="background">Source/kpmg.png</file>
+</qresource>
+</RCC>
