@@ -1,4 +1,4 @@
-#pyzbar version 1.2.0
+#xlrd version 1.2.0
 #opencv-python version 4.4.0.46
 
 import sys
